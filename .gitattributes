@@ -1,6 +1,7 @@
-# Forçar detecção de HTML e CSS
+# Forçar detecção de HTML, CSS e JavaScript
 *.html linguist-language=HTML
 *.css linguist-language=CSS
+*.js linguist-language=JavaScript
 
 # Ignorar outras extensões na contagem
 *.md linguist-documentation# Inclui todos os arquivos na contagem
