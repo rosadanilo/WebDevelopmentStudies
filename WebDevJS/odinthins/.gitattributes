@@ -4,7 +4,7 @@
 *.js linguist-language=JavaScript
 
 # Ignorar outras extensões na contagem
-*.md linguist-documentation# Inclui todos os arquivos na contagem
+*.md linguist-documentation # Inclui todos os arquivos na contagem
 * linguist-detectable=true
 
 *.png linguist-vendored
